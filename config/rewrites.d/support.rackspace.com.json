@@ -1217,6 +1217,13 @@
         "to": "/how-to/getting-started-with-rackspace-intelligence-for-the-cloud/",
         "rewrite": false,
         "status": 301
+      },
+      {
+        "description": "redirect upgrade-a-cloud-databases-instance-from-mysql-51-to-mysql-56",
+        "from": "^\\/how-to\\/upgrade-a-cloud-databases-instance-from-mysql-51-to-mysql-56(.*)$",
+        "to": "/how-to/upgrade-a-cloud-databases-instance-from-mysql-56-to-mysql-57/",
+        "rewrite": false,
+        "status": 301
       }
     ]
 }
